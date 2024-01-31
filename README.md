@@ -10,15 +10,14 @@ Before you begin, ensure you have the following installed:
 Using a virtual environment is recommended to manage dependencies for your project. This ensures that your project's dependencies are kept separate from your system-wide Python packages.
 
 ### To run an IPython Notebook (.ipynb file), you can use Jupyter Notebook or Jupyter Lab. Here are step-by-step instructions:
-Using Jupyter Notebook:
 #### Install Jupyter Notebook:
 If you haven't installed Jupyter Notebook, you can install it using the following command in your terminal or command prompt:
-' pip install notebook '
+- pip install notebook
 #### Navigate to the Directory:
 Open a terminal or command prompt and navigate to the directory where your .ipynb file is located.
 #### Launch Jupyter Notebook:
 Type the following command in the terminal or command prompt and press Enter:
-'jupyter notebook'
+- jupyter notebook
 This will open Jupyter Notebook in your default web browser.
 
 #### Open the Notebook:
